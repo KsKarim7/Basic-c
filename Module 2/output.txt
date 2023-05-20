@@ -1,1 +1,0 @@
-Size of char : 1

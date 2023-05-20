@@ -23,6 +23,7 @@ int main()
         {
             if (i == j)
             {
+
                 continue;
             }
             if (arr[i][j] != 0)
